@@ -1,5 +1,5 @@
 <template>
-  <footer class="site-footer bg-white text-center py-4">
+  <footer class="site-footer bg-[#F5F5F5] text-center py-4">
     <hr class="border-gray-300 w-3/5 mx-auto mb-4">
     <p class="text-gray-600 text-xs">&copy; {{ currentYear }} PT Intelegensia Mustaka Indonesia. All rights reserved.</p>
   </footer>
@@ -18,7 +18,6 @@ export default {
 
 <style scoped>
 .site-footer {
-  background-color: #f9fafb;
   padding-top: 1rem;
   padding-bottom: 1rem;
   position: relative;

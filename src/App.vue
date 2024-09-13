@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="bg-white min-h-screen font-serif">
+  <div id="app" class="min-h-screen bg-[#F5F5F5] font-serif">
     <SiteHeader />
     <main class="mt-20">
       <router-view />
